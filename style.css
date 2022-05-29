@@ -1,3 +1,46 @@
+
 .container{
   margin-top:100px;
+  background-color: #F0F5EC
+}
+.newarrival{
+  margin-top:20px;
+  background: green;
+  width:50px;
+  color: white;
+  font-size: 12px;
+  font-weight: bold;
+}
+.col-md-7 h2{
+  color: #45AD99
+}
+.stars{
+  height: 15px;
+  margin-bottom:10px;
+}
+.price{
+  color: #273746;
+  font-size:26px;
+  font-weight: bold;
+  padding-top: 20px;
+}
+.amount{
+  border: 1px solid #ccc;
+  height: 33px;
+  width: 30px;
+  text-align: center;
+  font-weight: bold;
+}
+.cart{
+  background: #5D6D7E;
+  color: #ffff;
+  font-size: 15px;
+  margin-right: 20px;
+}
+.buynow{
+  background: #2ECC71;
+  color: #17202A;
+  font-size: 15px;
+  font-weight: bold;
+  margin-left: 20px;
 }
