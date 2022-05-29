@@ -25,6 +25,13 @@
   font-weight: bold;
   padding-top: 20px;
 }
+.price del{
+  font-size:16px;
+}
+.price ins{
+  font-size:19px;
+  color: #079C29;
+}
 .amount{
   border: 1px solid #ccc;
   height: 33px;
